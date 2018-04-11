@@ -1,8 +1,3 @@
-Freddy Maidanik 310017280 - corresponding member.
-Eli Moshkovich 308240019
-Roy Greenberg 201559994
-Daniel Bromberg 209529882
-
 How to run:
 First, take the firewall and the slice files into the folder: pox/pox/misc
 To run the firewall topology, you should open 2 terminals.
