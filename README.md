@@ -1,4 +1,4 @@
-                                                #SDN, first assignment.
+                                                 SDN, first assignment.
                                           Using firewall rules and video slicing.
 
 How to run:
