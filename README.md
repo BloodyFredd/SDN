@@ -1,3 +1,6 @@
+                                                #SDN, first assignment.
+                                          Using firewall rules and video slicing.
+
 How to run:
 First, take the firewall and the slice files into the folder: pox/pox/misc
 To run the firewall topology, you should open 2 terminals.
