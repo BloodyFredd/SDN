@@ -1,5 +1,5 @@
-                                                 SDN, first assignment.
-                                          Using firewall rules and video slicing.
+# SDN, first assignment
+Using firewall rules and video slicing.
 
 How to run:
 First, take the firewall and the slice files into the folder: pox/pox/misc
